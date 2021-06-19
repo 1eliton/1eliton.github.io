@@ -1,6 +1,6 @@
-Development notes
+Notes
 =================
 
 This is the source for https://1eliton.github.io.
 
-I will publish some technical notes here.
+I'll publish some technical notes here.
