@@ -4,5 +4,5 @@
 
 
 
-<div class="tenor-gif-embed" data-postid="8344269" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/thats-all-folks-ending-cartoons-looney-toons-gif-8344269">Thats All Folks Ending GIF</a>from <a href="https://tenor.com/search/thats+all+folks-gifs">Thats All Folks GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div class="tenor-gif-embed" data-postid="8344269" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/thats-all-folks-ending-cartoons-looney-toons-gif-8344269"></a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <sub><sup>That's all folks</sup></sub>
