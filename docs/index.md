@@ -1,5 +1,5 @@
-## Hello world :)
+##Ooops! Nothing in here.
 
-As soon as possible I'll publish some technical stuff here.
-At the moment, you can visit my github [right here](https://github.com/1eliton).
+###Maybe you shoud try to visit my [medium](eliton.medium.com).
 
+That's all folks
